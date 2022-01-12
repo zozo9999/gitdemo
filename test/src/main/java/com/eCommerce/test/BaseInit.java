@@ -10,6 +10,7 @@ import org.openqa.selenium.*;
 public class BaseInit {
 	//good morning
 	//good evening
+	//jihoon
 	private static WebDriver driver;
 	
 	@FindBy(id="react-burger-menu-btn")
